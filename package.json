@@ -27,5 +27,6 @@
                 "path": "./themes/word-color-theme.json"
             }
         ]
-    }
+    },
+    "version": "0.0.1"
 }
