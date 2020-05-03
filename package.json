@@ -15,6 +15,10 @@
         "theme",
         "Word"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huacat1017/huacat.office-theme"
+    },
     "contributes": {
         "themes": [
             {

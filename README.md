@@ -1,8 +1,8 @@
-![WELCOME](welcome.png)
+![WELCOME](https://github.com/huacat1017/huacat.office-theme/raw/master/welcome.png)
 Do you like MS Office Theme? Install this extension. Your VSCode will be like a MS Office.
 ## Screenshot
 ### Word Theme
-![WORD](word.png)
+![WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/screenshot.png)
 > Info: The extension just a preview, so you can't use other themes, such as Powerpoint, Excel......
 ## Installtion 
 ### 1. Install Office Theme from activity bar
