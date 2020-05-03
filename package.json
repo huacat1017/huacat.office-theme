@@ -1,0 +1,27 @@
+{
+    "name": "vsc-office-theme",
+    "displayName": "Office Theme",
+    "description": "Microsoft Office(like) theme for VScode",
+    "version": "0.0.0",
+    "icon": "logo.png",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords":[
+        "office theme",
+        "theme",
+        "Word"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Office Theme (Word)",
+                "uiTheme": "vs",
+                "path": "./themes/word-color-theme.json"
+            }
+        ]
+    }
+}
