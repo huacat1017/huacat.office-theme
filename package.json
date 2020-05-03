@@ -2,7 +2,7 @@
     "name": "vsc-office-theme",
     "displayName": "Office Theme",
     "description": "Microsoft Office(like) theme for VScode",
-    "version": "0.0.1",
+    "version": "0.0.0",
     "icon": "logo.png",
     "publisher": "huacat",
     "engines": {
