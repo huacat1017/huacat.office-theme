@@ -5,7 +5,8 @@
 ### Theme Colors
 - No opacity in `editorGroup.dropBackground`
 - `textLink.activeForeground` changes color to `#4472c4`
-- Add `notification` settings
+- Added `notification` settings
+- Changed `progressBar.background` to themes' titlebar color
 
 ### Syntax Colors
 - Changes some `punctuation` settings
@@ -13,7 +14,7 @@
 - `CSS: Property Names` changes color to `#70ad47`
 
 ### Package structure changes
-- All of the images (except logo.png) are move to image folder and delete from extension (they are at github)
+- All of the images (except logo.png) are moved to image folder and delete from extension (they are at github)
 
 ## 0.0.1 - 2020 May 3
 - Initial release

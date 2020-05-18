@@ -75,6 +75,8 @@
 		"minimapSlider.background": "#dadadaaa",
 		"minimapSlider.hoverBackground": "#cececeaa",
 		"minimapSlider.activeBackground": "#cececeaa",
+		// progress bar
+		"progressBar.background": "#b7472a",
 		// scroll bar
 		"scrollbarSlider.background": "#dadadaaa",
 		"scrollbarSlider.hoverBackground": "#cececeaa",
