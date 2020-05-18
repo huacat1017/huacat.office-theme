@@ -25,6 +25,11 @@
                 "label": "Office Theme (Word)",
                 "uiTheme": "vs",
                 "path": "./themes/word-color-theme.json"
+            },
+            {
+                "label": "Office Theme (Powerpoint)",
+                "uiTheme": "vs",
+                "path": "./themes/powerpoint-color-theme.json"
             }
         ]
     },
