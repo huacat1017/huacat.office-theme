@@ -1,4 +1,13 @@
 # Change Log
+## 0.1.1 - 2020 June 6
+- `editor.hoverHighlightBackground` and `editor.selectionHighlightBackground` set opacity to `80`
+- Fix README.md Powerpoint label position.
+
+- Added color to following theme keys:
+`editor.wordHighlightBackground`
+`editor.wordHighlightStrongBackground`
+`list.highlightForeground`
+
 ## 0.1.0 - 2020 May 18
 - **Powerpoint Theme is out\!**
 
