@@ -17,18 +17,18 @@
 		// button
 		"button.background": "#2b579a",
 		"button.foreground": "#ffffff",
-		"button.hoverBackground": "#4a78b0",
+		"button.hoverBackground": "#4a73b0",
 		// editor
 		"editor.background": "#ffffff",
 		"editor.foreground": "#000000",
 		"editor.findMatchBackground": "#c6b963",
 		"editor.findMatchHighlightBackground": "#ffee80",
-		"editor.hoverHighlightBackground": "#d5e1f280",
+		"editor.hoverHighlightBackground": "#d5e1f2",
 		"editor.lineHighlightBackground": "#ffffff",
 		"editor.lineHighlightBorder": "#ffffff",
 		"editor.rangeHighlightBackground": "#ffffff",
 		"editor.selectionBackground": "#c6c6c6",
-		"editor.selectionHighlightBackground": "#d5e1f280",
+		"editor.selectionHighlightBackground": "#d5e1f2",
 		"editor.wordHighlightBackground": "#d5e1f280",
 		"editor.wordHighlightStrongBackground": "#d5e1f2",
 		"editorBracketMatch.background": "#ffffff",
@@ -46,7 +46,7 @@
 		"editorLineNumber.foreground": "#3e6db5",
 		// extension
 		"extensionButton.prominentBackground": "#2b579a",
-		"extensionButton.prominentHoverBackground": "#4a78b0",
+		"extensionButton.prominentHoverBackground": "#4a73b0",
 		"extensionButton.prominentForeground": "#ffffff",
 		// git
 		"gitDecoration.addedResourceForeground": "#70ad47",
@@ -58,14 +58,14 @@
 		"gitDecoration.untrackedResourceForeground": "#9cc3e5",
 		// list
 		"list.activeSelectionBackground": "#aeaeae",
-		"list.activeSelectionForeground": "#3e6db5",
+		"list.activeSelectionForeground": "#2b579a",
 		"list.dropBackground": "#d5e1f2",
 		"list.focusBackground": "#d5e1f2",
 		"list.focusForeground": "#3e6db5",
 		"list.highlightForeground": "#3e6db5d0",
 		"list.hoverBackground": "#c6c6c6",
 		"list.inactiveSelectionBackground": "#aeaeae",
-		"list.inactiveSelectionForeground": "#3e6db5",
+		"list.inactiveSelectionForeground": "#2b579a",
 		// menu
 		"menu.background": "#f3f3f3",
 		"menu.foreground": "#5f5f5f",
@@ -142,8 +142,8 @@
 		// text
 		"textBlockQuote.background": "#f3f3f3",
 		"textBlockQuote.border": "#3e6db5",
-		"textLink.activeForeground": "#4472c4",
-		"textLink.foreground": "#4472c4",
+		"textLink.activeForeground": "#2b579a",
+		"textLink.foreground": "#2b579a",
 		"textPreformat.foreground": "#70ad47",
 		// pickerGroup
 		"pickerGroup.border": "#d2d2d2",
@@ -284,7 +284,9 @@
 				"punctuation.terminator",
 				"punctuation.section",
 				"punctuation.definition.string.end.c",
-				"punctuation.definition.string.begin.c"
+				"punctuation.definition.string.begin.c",
+				"punctuation.definition.string.end.cpp",
+				"punctuation.definition.string.begin.cpp"
 			],
 			"settings": {
 				"foreground": "#4472c4"

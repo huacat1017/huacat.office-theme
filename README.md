@@ -1,13 +1,29 @@
-![WELCOME](https://github.com/huacat1017/huacat.office-theme/raw/master/image/welcome.png)
-Do you like MS Office Theme? Install this extension. Your VSCode will be like a MS Office.
+> Future Plan: Switch colorful themes by command bar
+
+<p align=center><image width=600px src=https://github.com/huacat1017/huacat.office-theme/raw/master/image/welcome.png/></p>
+
+The Microsoft Office 2016 Theme(Full Application) for VSCode is out!
+You can code on a comfortable UI in VSCODE!
+
 ## Screenshot
 ### Word Theme
 ![WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/word.png)
 
-### Powerpoint Theme
+### PowerPoint Theme
 ![POWERPOINT](https://github.com/huacat1017/huacat.office-theme/raw/master/image/powerpoint.png)
 
-> Info: The extension just a preview, so you can't use other themes, such as OneNote, Excel......
+### Excel Theme
+![EXCEL](https://github.com/huacat1017/huacat.office-theme/raw/master/image/excel.png)
+
+### OneNote Theme
+![ONENOTE](https://github.com/huacat1017/huacat.office-theme/raw/master/image/onenote.png)
+
+### Access Theme
+![ACCESS](https://github.com/huacat1017/huacat.office-theme/raw/master/image/access.png)
+
+### Publisher Theme
+![PUBLISHER](https://github.com/huacat1017/huacat.office-theme/raw/master/image/publisher.png)
+
 ## Installtion 
 ### 1. Install Office Theme from activity bar
 - Launch Vscode
@@ -25,7 +41,7 @@ ext install huacat.office-theme
 - And you will see this extension
 
 ## Join us
-> This extension only has a theme (Word), if you would like to help me to develope. You can also clone my repository to your computer to develope it.
+> If you would like to help me to develope. You can also clone my repository to your computer to develope it.
 
 Follow this steps:
 1. go to terminal
@@ -40,5 +56,3 @@ git clone https://github.com/huacat1017/huacat.office-theme.git
 - And then press `PrtScn`
 - Launch Paint 3D and paste Screenshot.
 - Use color picker to get MS Office color.
-
-Office Theme is based on Microsoft Office 2016.

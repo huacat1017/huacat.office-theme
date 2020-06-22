@@ -1,4 +1,19 @@
 # Change Log
+## 1.0.0 - 2020 June 22
+### HUGE UPDATE \! Added the other 4 themes \!
+\- Excel, Onenote, Access and Publisher
+
+### Theme Colors
+- Fixed `list.highlightForeground` was still blue in PowerPoint Theme
+- `list.activeSelectionForeground` and `list.inactiveSelectionForeground` changed to Theme's titlebar background color
+- The color of `textLink` changed to Theme's titlebar  background color
+- Office Theme (Powerpoint) was ranamed to Office Theme (PowerPoint)
+- `editor.hoverHighlightBackground` and `editor.selectionHighlightBackground` set opacity to `ff` (Microsoft fixed the bug in terminal at 0.46)
+
+### Syntax Colors
+- Added `punctuation.definition.string.end.cpp` and `punctuation.definition.string.begin.cpp`
+to `Punctuation` group
+
 ## 0.1.1 - 2020 June 6
 - `editor.hoverHighlightBackground` and `editor.selectionHighlightBackground` set opacity to `80`
 - Fix README.md Powerpoint label position.

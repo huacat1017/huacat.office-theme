@@ -13,7 +13,12 @@
     "keywords": [
         "office theme",
         "theme",
-        "Word"
+        "Word",
+        "PowerPoint",
+        "Excel",
+        "OneNote",
+        "Access",
+        "Publisher"
     ],
     "repository": {
         "type": "git",
@@ -27,9 +32,29 @@
                 "path": "./themes/word-color-theme.json"
             },
             {
-                "label": "Office Theme (Powerpoint)",
+                "label": "Office Theme (PowerPoint)",
                 "uiTheme": "vs",
                 "path": "./themes/powerpoint-color-theme.json"
+            },
+            {
+                "label": "Office Theme (Excel)",
+                "uiTheme": "vs",
+                "path": "./themes/excel-color-theme.json"
+            },
+            {
+                "label": "Office Theme (OneNote)",
+                "uiTheme": "vs",
+                "path": "./themes/onenote-color-theme.json"
+            },
+            {
+                "label": "Office Theme (Access)",
+                "uiTheme": "vs",
+                "path": "./themes/access-color-theme.json"
+            },
+            {
+                "label": "Office Theme (Publisher)",
+                "uiTheme": "vs",
+                "path": "./themes/publisher-color-theme.json"
             }
         ]
     },
