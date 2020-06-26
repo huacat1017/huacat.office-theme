@@ -74,7 +74,7 @@
 		"menubar.selectionBackground": "#f3f3f3",
 		"menubar.selectionForeground": "#217346",
 		// minimap
-		"minimap.background": "#ffffff",
+		"minimap.background": "#f3f3f3",
 		"minimapSlider.background": "#dadadaaa",
 		"minimapSlider.hoverBackground": "#cececeaa",
 		"minimapSlider.activeBackground": "#cececeaa",
@@ -149,7 +149,7 @@
 		"pickerGroup.border": "#d2d2d2",
 		"pickerGroup.foreground": "#217346",
 		// panel
-		"panel.background": "#ffffff",
+		"panel.background": "#f3f3f3",
 		"panel.border": "#c6c6c6",
 		// quick input
 		"quickInput.background": "#f3f3f3",
