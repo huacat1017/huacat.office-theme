@@ -1,4 +1,14 @@
 # Change Log
+## 1.0.1 - 2020 June 26
+### Fixed issues
+- Published extension to [open-vsx.org](https://open-vsx.org) ([#1](https://github.com/huacat1017/huacat.office-theme/issues/1))
+- README.md improved readability ([#2](https://github.com/huacat1017/huacat.office-theme/pull/2))
+
+### Theme Changes
+- `editor.lineHighlightBackground` and `editor.lineHighlightBorder` recolored to `#f3f3f3`
+- `editor.hoverHighlightBackground`,`editor.selectionHighlightBackground`, and `editor.wordHighlightStrongBackground`
+set opacity to `a0` (It could cover something before) 
+
 ## 1.0.0 - 2020 June 22
 ### HUGE UPDATE \! Added the other 4 themes \!
 \- Excel, Onenote, Access and Publisher
