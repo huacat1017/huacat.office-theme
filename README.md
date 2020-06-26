@@ -3,9 +3,9 @@
 <p align=center><image width=600px src=https://github.com/huacat1017/huacat.office-theme/raw/master/image/welcome.png/></p>
 
 The Microsoft Office 2016 Theme(Full Application) for VSCode is out!
-You can code on a comfortable UI in VSCODE!
+You can now code on a comfortable UI in VSCODE!
 
-## Screenshot
+## Screenshots
 ### Word Theme
 ![WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/word.png)
 
@@ -24,12 +24,13 @@ You can code on a comfortable UI in VSCODE!
 ### Publisher Theme
 ![PUBLISHER](https://github.com/huacat1017/huacat.office-theme/raw/master/image/publisher.png)
 
-## Installtion 
+## Installtion
 ### 1. Install Office Theme from activity bar
-- Launch Vscode
+- Launch VSCode
 - Click Extensions from activity bar
 - Search for "Office Theme"
 - Press Install
+- Choose your color choice
 - And now you can enjoy Office Theme!
 
 ### 2. Install Office Theme by Command Palette
@@ -41,7 +42,7 @@ ext install huacat.office-theme
 - And you will see this extension
 
 ## Join us
-> If you would like to help me to develope. You can also clone my repository to your computer to develope it.
+> If you would like to help in the further development of this extension, you can clone my repository to your computer to modify it.
 
 Follow this steps:
 1. go to terminal
@@ -49,10 +50,10 @@ Follow this steps:
 ```
 git clone https://github.com/huacat1017/huacat.office-theme.git
 ```
-3. Wait for a moment, you can develope Office Theme.
+3. Wait for a moment, you can develop Office Theme.
 
-### How to develope?
-- If you install office 2016(or higher), you can launch Office. It's a way to help you develope.
+### How to develop?
+- If you install office 2016(or higher), you can launch Office. It's a way to help you develop.
 - And then press `PrtScn`
 - Launch Paint 3D and paste Screenshot.
 - Use color picker to get MS Office color.
