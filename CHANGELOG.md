@@ -1,4 +1,13 @@
 # Change Log
+## 1.0.2 - 2020 July 19
+### Theme Changes
+([#4](https://github.com/huacat1017/huacat.office-theme/pull/4))
+- `minimap.background` sat color to `#fafafa`
+- `panel.background` sat color to `#f3f3f3`
+- `terminal.background` sat color to `#fafafa`
+- `terminalCursor.background` sat color to `#fafafa`
+- exchange terminal ansi colors and ansi bright colors (Not #4)
+
 ## 1.0.1 - 2020 June 26
 ### Fixed issues
 - Published extension to [open-vsx.org](https://open-vsx.org) ([#1](https://github.com/huacat1017/huacat.office-theme/issues/1))
