@@ -74,7 +74,7 @@
 		"menubar.selectionBackground": "#f3f3f3",
 		"menubar.selectionForeground": "#b7472a",
 		// minimap
-		"minimap.background": "#ffffff",
+		"minimap.background": "#fafafa",
 		"minimapSlider.background": "#dadadaaa",
 		"minimapSlider.hoverBackground": "#cececeaa",
 		"minimapSlider.activeBackground": "#cececeaa",
@@ -125,10 +125,10 @@
 		"terminal.ansiBrightMagenta": "#b2a1c7",
 		"terminal.ansiBrightYellow": "#ffd965",
 		"terminal.ansiBrightWhite": "#f2f2f2",
-		"terminal.background": "#ffffff",
+		"terminal.background": "#fafafa",
 		"terminal.foreground": "#000000",
 		"terminal.selectionBackground": "#00000039",
-		"terminalCursor.background": "#ffffff",
+		"terminalCursor.background": "#fafafa",
 		"terminalCursor.foreground": "#f0623e",
 		// titleBar
 		"titleBar.inactiveBackground": "#b7472a",
@@ -149,7 +149,7 @@
 		"pickerGroup.border": "#d2d2d2",
 		"pickerGroup.foreground": "#b7472a",
 		// panel
-		"panel.background": "#ffffff",
+		"panel.background": "#f3f3f3",
 		"panel.border": "#c6c6c6",
 		// quick input
 		"quickInput.background": "#f3f3f3",
