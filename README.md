@@ -24,6 +24,9 @@ You can now code on a comfortable UI in VSCODE!
 ### Publisher Theme
 ![PUBLISHER](https://github.com/huacat1017/huacat.office-theme/raw/master/image/publisher.png)
 
+### **PREVIEW:** Dark Word Theme
+![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/dark-word.png)
+
 ## Installtion
 ### 1. Install Office Theme from activity bar
 - Launch VSCode
@@ -54,6 +57,12 @@ git clone https://github.com/huacat1017/huacat.office-theme.git
 
 ### How to develop?
 - If you install office 2016(or higher), you can launch Office. It's a way to help you develop.
-- And then press `PrtScn`
+#### Way 1:
+- Press `PrtScn`
 - Launch Paint 3D and paste Screenshot.
 - Use color picker to get MS Office color.
+
+#### Way 2:
+- Download [PowerToys](https://github.com/microsoft/PowerToys/releases) and Install it.
+- Use `Win + Shift + c` to use color picker.
+- You can pick colors without `PrtScn`! (If the color is a small part in Office, you can use `PrtScn` instead.)

@@ -1,4 +1,15 @@
 # Change Log
+## 1.1.0 - 2021 July 17
+### Theme Changes
+### **PREVIEW: Office Dark Theme (Word) is out!**
+([#7](https://github.com/huacat1017/huacat.office-theme/pull/7))
+Thanks ([YazeedAlKhalaf](https://github.com/YazeedAlKhalaf)) for support.
+#### Activity Bar Changes
+Because I'm using Office 2019 now, so I'll modify a few colors:
+- `activityBar.foreground`<br>
+`activityBar.inactiveForeground` : `#f3f3f3` -> `#ededed`
+`activityBarBadge.background`
+- Added `activityBar.dropBorder` -> `#ffffff`
 ## 1.0.2 - 2020 July 19
 ### Theme Changes
 ([#4](https://github.com/huacat1017/huacat.office-theme/pull/4))

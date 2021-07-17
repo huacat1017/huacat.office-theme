@@ -34,7 +34,7 @@
             {
                 "label": "Office Dark Theme (Word)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/word-dark-theme.json"
+                "path": "./themes/word-dark-color-theme.json"
             },
             {
                 "label": "Office Theme (PowerPoint)",

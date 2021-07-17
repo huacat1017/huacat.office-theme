@@ -8,11 +8,12 @@
 		"selection.background": "#c6c6c6",
 		// activity Bar
 		"activityBar.background": "#80397b",
-		"activityBar.foreground": "#f3f3f3",
 		"activityBar.activeBackground": "#52254f",
+		"activityBar.foreground": "#ededed",
+		"activityBar.inactiveForeground": "#ededed",
 		"activityBar.activeBorder": "#ffffff00",
-		"activityBar.inactiveForeground": "#f3f3f3",
-		"activityBarBadge.background": "#f3f3f3",
+		"activityBar.dropBorder": "#ffffff",
+		"activityBarBadge.background": "#ededed",
 		"activityBarBadge.foreground": "#80397b",
 		// button
 		"button.background": "#80397b",
