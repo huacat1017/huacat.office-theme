@@ -42,13 +42,13 @@
     "editorHoverWidget.background": "#262626",
     "editorHoverWidget.border": "#484644",
     "editorHoverWidget.foreground": "#ffffff",
-    "editorLink.activeForeground": "#484644",
+    "editorLink.activeForeground": "#7eb1ff",
     "editorLineNumber.activeForeground": "#4a73b0",
     "editorLineNumber.foreground": "#ededed",
     // extension
-    "extensionButton.prominentBackground": "#323130",
+    "extensionButton.prominentBackground": "#2b579a",
     "extensionButton.prominentHoverBackground": "#4a73b0",
-    "extensionButton.prominentForeground": "#262626",
+    "extensionButton.prominentForeground": "#ffffff",
     // git
     "gitDecoration.addedResourceForeground": "#70ad47",
     "gitDecoration.conflictingResourceForeground": "#ffc000",
@@ -142,10 +142,10 @@
     "titleBar.activeForeground": "#ffffff",
     "titleBar.activeBackground": "#323130",
     // text
-    "textBlockQuote.background": "#f3f3f3",
+    "textBlockQuote.background": "#363636",
     "textBlockQuote.border": "#3e6db5",
-    "textLink.activeForeground": "#323130",
-    "textLink.foreground": "#323130",
+    "textLink.activeForeground": "#79cdfe",
+    "textLink.foreground": "#23a6e8",
     "textPreformat.foreground": "#70ad47",
     // pickerGroup
     "pickerGroup.border": "#484644",

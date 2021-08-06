@@ -1,4 +1,18 @@
 # Change Log
+## 1.1.1 - 2021 August 6
+### Fixed Issues (Office Dark Theme (Word))
+#### ([#9](https://github.com/huacat1017/huacat.office-theme/issues/9))
+- `textLink.activeForeground` set to `#79cdfe`(couldn't see before)
+- `textLink.foreground` set to `#23a6e8`(couldn't see before)
+- extensionButton bg&fg set to the style in the light one
+#### and Others:
+- `textBlockQuote.background` set to `#363636`(it was light, we could't see text.)
+### Theme Changes
+changes below make the themes more like original Office:
+- `editorLink.activeForeground` set to `#0563c1` for light and `#7eb1ff` for dark
+- `textLink.activeForeground` set to `sideBarTitle.foreground` in each light theme
+- Add Feedback Describtion to [README.md](README.md)
+
 ## 1.1.0 - 2021 July 17
 ### Theme Changes
 ### **PREVIEW: Office Dark Theme (Word) is out!**
@@ -10,6 +24,7 @@ Because I'm using Office 2019 now, so I'll modify a few colors:
 `activityBar.inactiveForeground` : `#f3f3f3` -> `#ededed`
 `activityBarBadge.background`
 - Added `activityBar.dropBorder` -> `#ffffff`
+
 ## 1.0.2 - 2020 July 19
 ### Theme Changes
 ([#4](https://github.com/huacat1017/huacat.office-theme/pull/4))

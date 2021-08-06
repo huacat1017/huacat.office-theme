@@ -42,7 +42,7 @@
 		"editorHoverWidget.background": "#ffffff",
 		"editorHoverWidget.border": "#d2d2d2",
 		"editorHoverWidget.foreground": "#000000",
-		"editorLink.activeForeground": "#f4b183",
+		"editorLink.activeForeground": "#0563c1",
 		"editorLineNumber.activeForeground": "#a3569e",
 		"editorLineNumber.foreground": "#a3569e",
 		// extension
@@ -138,7 +138,7 @@
 		// text
 		"textBlockQuote.background": "#f3f3f3",
 		"textBlockQuote.border": "#a3569e",
-		"textLink.activeForeground": "#80397b",
+		"textLink.activeForeground": "#6c2f68",
 		"textLink.foreground": "#80397b",
 		"textPreformat.foreground": "#70ad47",
 		// notification

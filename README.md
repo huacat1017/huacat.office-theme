@@ -1,4 +1,4 @@
-> Future Plan: Switch colorful themes by command bar
+> Future Plan: Finish Dark Themes in Office
 
 <p align=center><img width=600px src=https://github.com/huacat1017/huacat.office-theme/raw/master/image/welcome.png/></p>
 
@@ -43,6 +43,11 @@ You can now code on a comfortable UI in VSCODE!
 ext install huacat.office-theme
 ```
 - And you will see this extension
+
+## Feedback
+If there are any issues or if you want to request a feature, please report on [Issues](https://github.com/huacat1017/huacat.office-theme/issues) or open a [Pull Request](https://github.com/huacat1017/huacat.office-theme/pulls) if you are interested in development, Thank you.
+
+You can also correct my grammer.
 
 ## Join us
 > If you would like to help in the further development of this extension, you can clone my repository to your computer to modify it.
