@@ -156,8 +156,12 @@
 		"quickInput.background": "#f3f3f3",
 		// welcome
 		"welcomePage.background": "#ffffff",
-		"welcomePage.buttonBackground": "#f3f3f3",
-		"welcomePage.buttonHoverBackground": "#c6c6c6"
+		"welcomePage.tileBackground": "#f3f3f3",
+		"welcomePage.tileHoverBackground": "#d2d2d2",
+		"welcomePage.progress.background": "#fafafa",
+		"welcomePage.progress.foreground": "#b7472a",
+		"welcomePage.buttonBackground": "#f3f3f3",// deprecated property
+		"welcomePage.buttonHoverBackground": "#c6c6c6"// deprecated property
 	},
 	"tokenColors": [
 		{

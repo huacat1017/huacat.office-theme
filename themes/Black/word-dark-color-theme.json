@@ -60,9 +60,10 @@
     // list
     "list.activeSelectionBackground": "#484644",
     "list.activeSelectionForeground": "#ffffff",
-    "list.dropBackground": "#d5e1f2",
-    "list.focusBackground": "#d5e1f2",
-    "list.focusForeground": "#3e6db5",
+    "list.dropBackground": "#2b579a",
+    "list.focusBackground": "#505050",
+    "list.focusForeground": "#f0f0f0",
+    "list.focusOutline": "#ffffff",
     "list.highlightForeground": "#3e6db5d0",
     "list.hoverBackground": "#484644",
     "list.inactiveSelectionBackground": "#484644",
@@ -157,9 +158,13 @@
     "quickInput.background": "#323130",
     // welcome
     "welcomePage.background": "#262626",
-    "welcomePage.buttonBackground": "#363636",
-    "welcomePage.buttonHoverBackground": "#484644",
-    "welcomePage.progress.foreground": "#ffffff"
+    "welcomePage.tileBackground": "#444444",
+		"welcomePage.tileHoverBackground": "#666666",
+    "welcomePage.tileShadow": "#00000000",
+		"welcomePage.progress.background": "#262626",
+		"welcomePage.progress.foreground": "#2b579a",
+    "welcomePage.buttonBackground": "#363636",// deprecated property
+    "welcomePage.buttonHoverBackground": "#484644",// deprecated property
   },
   "tokenColors": [
     {

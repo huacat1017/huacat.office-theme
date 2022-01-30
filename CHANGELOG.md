@@ -1,4 +1,12 @@
 # Change Log
+## 1.1.2 - 2022 January 30
+### Theme Changes
+- Recolored welcome walkthroughs tiles(It seems like that [Update 1.61](https://code.visualstudio.com/updates/v1_61) added these properties)
+- Recolored the list.focus(background, foreground, outline) of Office Dark Theme (Word)
+- Recolored `list.dropBackground` -> `#2b579a`(I don't know how to color it, you can [open an issue](https://github.com/huacat1017/huacat.office-theme/issues/new) to advise me)
+### Others
+- ([#12](https://github.com/huacat1017/huacat.office-theme/issues/12)) Edited [README.md](https://github.com/huacat1017/huacat.office-theme/blame/master/README.md)(especially added declaration to say it's unofficial)
+
 ## 1.1.1 - 2021 August 6
 ### Fixed Issues (Office Dark Theme (Word))
 #### ([#9](https://github.com/huacat1017/huacat.office-theme/issues/9))
@@ -11,7 +19,7 @@
 changes below make the themes more like original Office:
 - `editorLink.activeForeground` set to `#0563c1` for light and `#7eb1ff` for dark
 - `textLink.activeForeground` set to `sideBarTitle.foreground` in each light theme
-- Add Feedback Describtion to [README.md](README.md)
+- Add Feedback Describtion to [README.md](https://github.com/huacat1017/huacat.office-theme/blame/master/README.md)
 
 ## 1.1.0 - 2021 July 17
 ### Theme Changes

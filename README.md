@@ -1,8 +1,8 @@
-> Future Plan: Finish Dark Themes in Office
+>**<p style="color:red">DECLARATION: This is not created by Microsoft. It's unofficial.</p>**
 
 <p align=center><img width=600px src=https://github.com/huacat1017/huacat.office-theme/raw/master/image/welcome.png/></p>
 
-The Microsoft Office 2016 Theme(Full Application) for VS Code is out!
+The Microsoft Office 2019 Theme(Full Application) for VS Code is out!
 You can now code on a comfortable UI in VS CODE!
 
 ## Screenshots
@@ -70,4 +70,4 @@ git clone https://github.com/huacat1017/huacat.office-theme.git
 #### Way 2:
 - Download [PowerToys](https://github.com/microsoft/PowerToys/releases) and Install it.
 - Use `Win + Shift + c` to use color picker.
-- You can pick colors without `PrtScn`! (If the color is a small part in Office, you can use `PrtScn` instead.)
+- You can pick colors without `PrtScn`! (If the color is a small part in Office, you should use `PrtScn` instead.)
