@@ -1,4 +1,4 @@
->**<span style="color:red">DECLARATION: This is not created by Microsoft. It's unofficial.</span>**
+>**DECLARATION: This is not created by Microsoft. It's unofficial.</span>**
 
 <p align=center><img width=600px src=https://github.com/huacat1017/huacat.office-theme/raw/master/image/welcome.png/></p>
 
@@ -6,6 +6,8 @@ The Microsoft Office 2019 Theme(Full Application) for VS Code is out!
 You can now code on a comfortable UI in VS CODE!
 
 ## Screenshots
+> Font: [Fira Code](https://github.com/tonsky/FiraCode/releases)\
+File Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 ### Word Theme
 ![WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/word.png)
 
