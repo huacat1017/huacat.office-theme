@@ -69,9 +69,9 @@
 		"list.inactiveSelectionForeground": "#077568",
 		// menu
 		"menu.background": "#f3f3f3",
-		"menu.foreground": "#5f5f5f",
-		"menu.selectionBackground": "#c6c6c6",
-		"menu.selectionForeground": "#5f5f5f",
+		"menu.foreground": "#262626",
+		"menu.selectionBackground": "#d2d2d2",
+		"menu.selectionForeground": "#262626",
 		"menubar.selectionBackground": "#f3f3f3",
 		"menubar.selectionForeground": "#077568",
 		// minimap

@@ -69,11 +69,11 @@
 		"list.inactiveSelectionBackground": "#484644",
 		"list.inactiveSelectionForeground": "#ffffff",
 		// menu
-		"menu.background": "#323130",
+		"menu.background": "#363636",
 		"menu.foreground": "#ffffff",
-		"menu.selectionBackground": "#484644",
+		"menu.selectionBackground": "#505050",
 		"menu.selectionForeground": "#ffffff",
-		"menubar.selectionBackground": "#484644",
+		"menubar.selectionBackground": "#363636",
 		"menubar.selectionForeground": "#ffffff",
 		// minimap
 		"minimap.background": "#363636",
@@ -138,10 +138,10 @@
 		"notifications.background": "#262626",
 		"notifications.foreground": "#ffffff",
 		// titleBar
-		"titleBar.inactiveBackground": "#323130",
+		"titleBar.inactiveBackground": "#262626",
 		"titleBar.inactiveForeground": "#ffffff",
+		"titleBar.activeBackground": "#0a0a0a",
 		"titleBar.activeForeground": "#ffffff",
-		"titleBar.activeBackground": "#323130",
 		// text
 		"textBlockQuote.background": "#363636",
 		"textBlockQuote.border": "#3e6db5",
