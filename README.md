@@ -2,7 +2,7 @@
 
 <p align=center><img width=600px src=https://github.com/huacat1017/huacat.office-theme/raw/master/image/welcome.png/></p>
 
-The Microsoft Office 2019 Theme(Full Application) for VS Code is out!
+The Microsoft Office 2019 Theme(Almost Full Application) for VS Code is out!
 You can now code on a comfortable UI in VS CODE!
 
 ## Screenshots
@@ -27,7 +27,7 @@ File Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/item
 ![PUBLISHER](https://github.com/huacat1017/huacat.office-theme/raw/master/image/publisher.png)
 
 ### **PREVIEW:** Dark Word Theme
-![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/dark-word.png)
+![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/black-word.png)
 
 ## Installation
 ### 1. Install Office Theme from activity bar
@@ -46,6 +46,9 @@ ext install huacat.office-theme
 ```
 - And you will see this extension
 
+## Known issues
+- **Office Black(Dark) Theme Full Version**: I tried to focus on the project, but I often got distracted because of games and computer problems.
+
 ## Feedback
 If there are any issues or if you want to request a feature, please report on [Issues](https://github.com/huacat1017/huacat.office-theme/issues) or open a [Pull Request](https://github.com/huacat1017/huacat.office-theme/pulls) if you are interested in development, Thank you.
 
@@ -63,13 +66,15 @@ git clone https://github.com/huacat1017/huacat.office-theme.git
 3. Wait for a moment, you can develop Office Theme.
 
 ### How to develop?
-- If you install office 2016(or higher), you can launch Office. It's a way to help you develop.
+- If you install office 2013(or higher), you can launch Office. It's a way to help you develop.
 #### Way 1:
 - Press `PrtScn`
-- Launch Paint 3D and paste Screenshot.
+- Launch Paint 3D(or other Apps that have color picker) and paste Screenshot.
 - Use color picker to get MS Office color.
 
 #### Way 2:
 - Download [PowerToys](https://github.com/microsoft/PowerToys/releases) and Install it.
 - Use `Win + Shift + c` to use color picker.
-- You can pick colors without `PrtScn`! (If the color is a small part in Office, you should use `PrtScn` instead.)
+- You can pick colors without `PrtScn`!
+\
+ (But sometimes when you enable picker, the window might change details and you can't pick the color you want(menu bar, active window's title bar, etc.) In this case, you should use Way 1 instead.)

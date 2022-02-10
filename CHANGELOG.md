@@ -1,5 +1,11 @@
 # Change Log
-## 1.1.2 - 2022 January 30
+## 1.1.3 (2022.2.10)
+### Theme Changes
+- Renamed Dark Themes to Black ([Reference page](https://support.microsoft.com/en-us/office/change-the-look-and-feel-of-office-63e65e1c-08d4-4dea-820e-335f54672310))
+- Fixed terminal text colors (some colored texts couldn't see)
+- Fixed title(menu) bar and menu colors
+
+## 1.1.2 (2022.1.30)
 ### Theme Changes
 - Recolored welcome walkthroughs tiles(It seems like that [Update 1.61](https://code.visualstudio.com/updates/v1_61) added these properties)
 - Recolored the list.focus(background, foreground, outline) of Office Dark Theme (Word)
@@ -7,7 +13,7 @@
 ### Others
 - ([#12](https://github.com/huacat1017/huacat.office-theme/issues/12)) Edited [README.md](https://github.com/huacat1017/huacat.office-theme/blame/master/README.md)(especially added declaration to say it's unofficial)
 
-## 1.1.1 - 2021 August 6
+## 1.1.1 (2021.8.6)
 ### Fixed Issues (Office Dark Theme (Word))
 #### ([#9](https://github.com/huacat1017/huacat.office-theme/issues/9))
 - `textLink.activeForeground` set to `#79cdfe`(couldn't see before)
@@ -21,7 +27,7 @@ changes below make the themes more like original Office:
 - `textLink.activeForeground` set to `sideBarTitle.foreground` in each light theme
 - Add Feedback Describtion to [README.md](https://github.com/huacat1017/huacat.office-theme/blame/master/README.md)
 
-## 1.1.0 - 2021 July 17
+## 1.1.0 (2021.7.17)
 ### Theme Changes
 ### **PREVIEW: Office Dark Theme (Word) is out!**
 ([#7](https://github.com/huacat1017/huacat.office-theme/pull/7))
@@ -33,7 +39,7 @@ Because I'm using Office 2019 now, so I'll modify a few colors:
 `activityBarBadge.background`
 - Added `activityBar.dropBorder` -> `#ffffff`
 
-## 1.0.2 - 2020 July 19
+## 1.0.2 (2020.7.19)
 ### Theme Changes
 ([#4](https://github.com/huacat1017/huacat.office-theme/pull/4))
 - `minimap.background` sat color to `#fafafa`
@@ -42,7 +48,7 @@ Because I'm using Office 2019 now, so I'll modify a few colors:
 - `terminalCursor.background` sat color to `#fafafa`
 - exchange terminal ansi colors and ansi bright colors (Not #4)
 
-## 1.0.1 - 2020 June 26
+## 1.0.1 (2020.6.26)
 ### Fixed issues
 - Published extension to [open-vsx.org](https://open-vsx.org) ([#1](https://github.com/huacat1017/huacat.office-theme/issues/1))
 - README.md improved readability ([#2](https://github.com/huacat1017/huacat.office-theme/pull/2))
@@ -52,7 +58,7 @@ Because I'm using Office 2019 now, so I'll modify a few colors:
 - `editor.hoverHighlightBackground`,`editor.selectionHighlightBackground`, and `editor.wordHighlightStrongBackground`
 set opacity to `a0` (It could cover something before) 
 
-## 1.0.0 - 2020 June 22
+## 1.0.0 (2020.6.22)
 ### HUGE UPDATE \! Added the other 4 themes \!
 \- Excel, Onenote, Access and Publisher
 
@@ -67,7 +73,7 @@ set opacity to `a0` (It could cover something before)
 - Added `punctuation.definition.string.end.cpp` and `punctuation.definition.string.begin.cpp`
 to `Punctuation` group
 
-## 0.1.1 - 2020 June 6
+## 0.1.1 (2020.6.6)
 - `editor.hoverHighlightBackground` and `editor.selectionHighlightBackground` set opacity to `80`
 - Fix README.md Powerpoint label position.
 
@@ -76,7 +82,7 @@ to `Punctuation` group
 `editor.wordHighlightStrongBackground`
 `list.highlightForeground`
 
-## 0.1.0 - 2020 May 18
+## 0.1.0 (2020.5.18)
 - **Powerpoint Theme is out\!**
 
 ### Theme Colors
@@ -93,5 +99,5 @@ to `Punctuation` group
 ### Package structure changes
 - All of the images (except logo.png) are moved to image folder and delete from extension (they are at github)
 
-## 0.0.1 - 2020 May 3
+## 0.0.1 (2020.5.3)
 - Initial release
