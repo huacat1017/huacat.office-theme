@@ -47,7 +47,7 @@ ext install huacat.office-theme
 - And you will see this extension
 
 ## Known Issues
-- **Office Black(Dark) Theme Full Version**: I tried to focus on the project, but I often got distracted because of games and other computer problems & projects. Hope that it will be finished before March.
+- **Office Black(Dark) Theme Full Version**: I tried to focus on the project, but I often got distracted because of games and other computer problems & projects. Hope that it will be finished before March. ([#11](https://github.com/huacat1017/huacat.office-theme/issues/11))
 - Black(Dark) mode with colored activity bar(sidebar?) ([#11](https://github.com/huacat1017/huacat.office-theme/issues/11))
 
 ## Feedback
