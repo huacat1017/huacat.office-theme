@@ -1,4 +1,11 @@
 # Change Log
+## 1.2.0 (2023.6.13)
+### Theme Changes
+- Update search bar/viewlet colors (input) ([#14](https://github.com/huacat1017/huacat.office-theme/issues/14))
+- Colorize command center
+- Recolor status bar
+- Show focus border
+
 ## 1.1.3 (2022.2.10)
 ### Theme Changes
 - Renamed Dark Themes to Black ([Reference page](https://support.microsoft.com/en-us/office/change-the-look-and-feel-of-office-63e65e1c-08d4-4dea-820e-335f54672310))

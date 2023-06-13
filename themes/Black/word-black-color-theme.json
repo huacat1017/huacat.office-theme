@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		// default settings
-		"focusBorder": "#ffffffff",
+		"focusBorder": "#ffffff",
 		"foreground": "#ffffff",
 		"selection.background": "#484644",
 		// activity Bar
@@ -57,6 +57,15 @@
 		"gitDecoration.modifiedResourceForeground": "#4472c4",
 		"gitDecoration.submoduleResourceForeground": "#8064a2",
 		"gitDecoration.untrackedResourceForeground": "#9cc3e5",
+		// input
+		"input.background": "#3b3a39",
+		"input.foreground": "#ffffff",
+		"input.border": "#797775",
+		"input.placeholderForeground": "#9e9e9e",
+		"inputOption.hoverBackground": "#484644",
+		"inputOption.activeBackground": "#605e5c",
+		"inputOption.activeBorder": "#8a8886",
+		"inputOption.activeForeground": "#d4d4d4",
 		// list
 		"list.activeSelectionBackground": "#484644",
 		"list.activeSelectionForeground": "#ffffff",
@@ -96,6 +105,8 @@
 		"sideBarSectionHeader.background": "#262626",
 		"sideBar.border": "#575757",
 		"sideBarTitle.foreground": "#ffffff",
+		// search
+		"search.resultsInfoForeground": "#f0f0f0",
 		// statusBar
 		"statusBar.background": "#323130",
 		"statusBar.foreground": "#ffffff",
@@ -103,7 +114,14 @@
 		"statusBar.noFolderBackground": "#323130",
 		"statusBar.noFolderForeground": "#262626",
 		"statusBar.noFolderBorder": "#484644",
+		"statusBarItem.activeBackground": "#797775",
 		"statusBarItem.hoverBackground": "#484644",
+		"statusBarItem.prominentBackground": "#484644",
+		"statusBarItem.prominentForeground": "#ffffff",
+		"statusBarItem.prominentHoverBackground": "#323130",
+		"statusBarItem.remoteBackground": "#484644",
+		"statusBarItem.remoteForeground": "#ffffff",
+		"statusBarItem.compactHoverBackground": "#605e5c",
 		// tab
 		"tab.activeBackground": "#262626",
 		"tab.activeForeground": "#ffffff",
@@ -137,6 +155,15 @@
 		"notificationCenterHeader.foreground": "#ffffff",
 		"notifications.background": "#262626",
 		"notifications.foreground": "#ffffff",
+		// command center
+		"commandCenter.background": "#363636",
+		"commandCenter.foreground": "#ffffff",
+		"commandCenter.border": "#363636",
+		"commandCenter.activeBackground": "#505050",
+		"commandCenter.activeForeground": "#ffffff",
+		"commandCenter.activeBorder": "#363636",
+		"commandCenter.inactiveForeground": "#505050",
+		"commandCenter.inactiveBorder": "#505050",
 		// titleBar
 		"titleBar.inactiveBackground": "#262626",
 		"titleBar.inactiveForeground": "#ffffff",
@@ -160,7 +187,6 @@
 		"welcomePage.background": "#262626",
 		"welcomePage.tileBackground": "#444444",
 		"welcomePage.tileHoverBackground": "#666666",
-		"welcomePage.tileShadow": "#00000000",
 		"welcomePage.progress.background": "#262626",
 		"welcomePage.progress.foreground": "#2b579a",
 		"welcomePage.buttonBackground": "#363636",// deprecated property

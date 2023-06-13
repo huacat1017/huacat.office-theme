@@ -3,7 +3,7 @@
 	"type": "light",
 	"colors": {
 		// default settings
-		"focusBorder": "#ff000000",
+		"focusBorder": "#000000",
 		"foreground": "#000000",
 		"selection.background": "#c6c6c6",
 		// activity Bar
@@ -57,6 +57,15 @@
 		"gitDecoration.modifiedResourceForeground": "#4472c4",
 		"gitDecoration.submoduleResourceForeground": "#8064a2",
 		"gitDecoration.untrackedResourceForeground": "#9cc3e5",
+		// input
+		"input.background": "#ffffff",
+		"input.foreground": "#444444",
+		"input.border": "#ababab",
+		"input.placeholderForeground": "#6a6a6a",
+		"inputOption.hoverBackground": "#f5f5f5",
+		"inputOption.activeBackground": "#ebebeb",
+		"inputOption.activeBorder": "#616161",
+		"inputOption.activeForeground": "#11100f",
 		// list
 		"list.activeSelectionBackground": "#aeaeae",
 		"list.activeSelectionForeground": "#217346",
@@ -95,14 +104,23 @@
 		"sideBarSectionHeader.background": "#e6e6e6",
 		"sideBar.border": "#bfbfbf",
 		"sideBarTitle.foreground": "#0e5c2f",
+		// search
+		"search.resultsInfoForeground": "#444444",
 		// statusBar
-		"statusBar.background": "#f3f3f3",
+		"statusBar.background": "#f1f0ef",
 		"statusBar.foreground": "#262626",
 		"statusBar.border": "#c6c6c6",
 		"statusBar.noFolderBackground": "#f3f3f3",
 		"statusBar.noFolderForeground": "#262626",
 		"statusBar.noFolderBorder": "#c6c6c6",
-		"statusBarItem.hoverBackground": "#c6c6c6",
+		"statusBarItem.activeBackground": "#c8c6c4",
+		"statusBarItem.hoverBackground": "#e1dfdd",
+		"statusBarItem.prominentBackground": "#439467",
+		"statusBarItem.prominentForeground": "#ffffff",
+		"statusBarItem.prominentHoverBackground": "#217346",
+		"statusBarItem.remoteBackground": "#ffffff",
+		"statusBarItem.remoteForeground": "#217346",
+		"statusBarItem.compactHoverBackground": "#d0d0d0",
 		// tab
 		"tab.activeBackground": "#ffffff",
 		"tab.activeForeground": "#000000",
@@ -131,6 +149,15 @@
 		"terminal.selectionBackground": "#00000039",
 		"terminalCursor.background": "#fafafa",
 		"terminalCursor.foreground": "#439467",
+		// command center
+		"commandCenter.background": "#9fcdb3",
+		"commandCenter.foreground": "#004b1c",
+		"commandCenter.border": "#217346",
+		"commandCenter.activeBackground": "#ffffff",
+		"commandCenter.activeForeground": "#262626",
+		"commandCenter.activeBorder": "#217346",
+		"commandCenter.inactiveForeground": "#217346",
+		"commandCenter.inactiveBorder": "#217346",
 		// titleBar
 		"titleBar.inactiveBackground": "#217346",
 		"titleBar.activeForeground": "#f3f3f3",
