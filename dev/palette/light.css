@@ -1,0 +1,22 @@
+/* For syntax and terminal colors */
+body{
+    /* Normal Colors. Terminal: ansiBright{COL} */
+    _Black: #000000;
+    _Blue: #4472c4;
+    _Green: #70ad47;
+    _Cyan: #5b9bd5;
+    _Red: #c0504d;
+    _Magenta: #8064a2;
+    _Yellow: #e0a903;
+    _White: #a5a5a5;
+    _Orange: #ed7d31;
+    /* Brighter Colors. Terminal: ansi{COL} */
+    _bBlack: #a5a5a5; /*b : Bright*/
+    _bBlue: #8eaadb; /*bb: Brighter*/
+    _bGreen: #b0e18d;
+    _bCyan: #a7c6f1;
+    _bRed: #f4b183;
+    _bMagenta: #ceb0f4;
+    _bYellow: #ffc000;
+    _bWhite: #ffffff;
+}

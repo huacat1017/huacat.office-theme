@@ -2,7 +2,7 @@
 
 <p align=center><img width=600px src=https://github.com/huacat1017/huacat.office-theme/raw/master/image/welcome.png/></p>
 
-The Microsoft Office 2019 Theme(Almost Full Application) for VS Code is out!
+The Microsoft Office 2021 Theme(Almost Full Application) for VS Code is out!
 You can now code on a comfortable UI in VS CODE!
 
 ## Screenshots

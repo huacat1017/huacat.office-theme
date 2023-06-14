@@ -1,5 +1,19 @@
 # Change Log
-## 1.2.0 (2023.6.13)
+## `1`.`3`.`0` (2023.6.14)
+- *Set more contrast to the yellow color in light theme*
+### Syntax Changes
+- **Refresh Dark Theme Syntax! (More Contrast)**
+- Recolor CSS Classes and Property Names
+- Make Parameter italic
+- Add global foreground setting
+### Theme Changes
+- Recolor selection.background
+- Recolor terminal BrightRed color (Powershell Error texts)
+- Recolor dark theme palette
+### Others
+- Add dev folder to the repo (for planning and developing color palettes)
+
+## `1`.`2`.`0` (2023.6.13)
 ### Theme Changes
 - Update search bar/viewlet colors (input) ([#14](https://github.com/huacat1017/huacat.office-theme/issues/14))
 - Colorize command center
