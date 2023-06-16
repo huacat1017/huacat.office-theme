@@ -1,4 +1,8 @@
 # Change Log
+## `1`.`3`.`1` (2323.6.16)
+- Dark Theme: separate old syntax (1.2 ver) from the new one, there are 2 dark themes now.
+- Update Black Theme image in README.md
+
 ## `1`.`3`.`0` (2023.6.14)
 - *Set more contrast to the yellow color in light theme*
 ### Syntax Changes

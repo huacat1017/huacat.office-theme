@@ -26,8 +26,12 @@ File Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/item
 ### Publisher Theme
 ![PUBLISHER](https://github.com/huacat1017/huacat.office-theme/raw/master/image/publisher.png)
 
+> Dark Theme [Poll](https://twitter.com/huacat1017/status/1669497003708157952): Which version do you prefer, the one with new syntax or the old one?
 ### **PREVIEW:** Black Word Theme
 ![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/black-word.png)
+
+### **EXPERIMENT:** Black Word Theme (New Syntax)
+![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/black-word-new.png)
 
 ## Installation
 ### 1. Install Office Theme from activity bar
@@ -47,7 +51,7 @@ ext install huacat.office-theme
 - And you will see this extension
 
 ## Known Issues
-- **Office Black(Dark) Theme Full Version**: I tried to focus on the project, but I often got distracted because of games and other computer problems & projects. Hope that it will be finished before March. ([#11](https://github.com/huacat1017/huacat.office-theme/issues/11))
+- **Office Black(Dark) Theme Full Version**: When I finish the new syntax, I will make the other 5 variation ([#11](https://github.com/huacat1017/huacat.office-theme/issues/11))
 - Black(Dark) mode with colored activity bar(sidebar?) ([#11](https://github.com/huacat1017/huacat.office-theme/issues/11))
 
 ## Feedback
