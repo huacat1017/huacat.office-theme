@@ -162,6 +162,9 @@
 		"titleBar.inactiveBackground": "#b7472a",
 		"titleBar.activeForeground": "#f3f3f3",
 		"titleBar.activeBackground": "#b7472a",
+		// banner
+		"banner.background": "#fce4dc",
+		"banner.foreground": "#740912",
 		// text
 		"textBlockQuote.background": "#f3f3f3",
 		"textBlockQuote.border": "#f0623e",

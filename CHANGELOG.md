@@ -1,5 +1,8 @@
 # Change Log
-## `1`.`3`.`1` (2323.6.16)
+## `1`.`3`.`2` (2023)
+- Specify banner color in Light Theme
+
+## `1`.`3`.`1` (2023.6.16)
 - Dark Theme: separate old syntax (1.2 ver) from the new one, there are 2 dark themes now.
 - Update Black Theme image in README.md
 
