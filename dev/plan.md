@@ -1,6 +1,4 @@
-- improve light theme syntax(terminal) contrast
 - add red color to dark/light theme and improve syntax
-- Selection and the highlight color are the same
 - improve inputvalidation
 - colorize bracket colors
 - update screenshot
@@ -14,3 +12,4 @@
 - warning/error small icon colors
 - notification hover colors(Light, Dark)
 - dark:drag in file explorer bg color lighter
+- scrollbar
