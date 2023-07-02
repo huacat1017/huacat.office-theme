@@ -1,7 +1,7 @@
 # Change Log
 ## `1`.`3`.`2` (2023.7.2)
 - Specify banner color in Light Theme
-- Recolor selection, word highlight, hover, and findMatch in editor
+- Recolor selection, word highlight, hover, and findMatch of the editor
 
 ## `1`.`3`.`1` (2023.6.16)
 - Dark Theme: separate old syntax (1.2 ver) from the new one, there are 2 dark themes now.
