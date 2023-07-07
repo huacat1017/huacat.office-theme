@@ -57,7 +57,7 @@
                 "path": "./themes/Colorful/publisher-color-theme.json"
             },
             {
-                "label": "Office Black Theme (Word) (New Syntax)",
+                "label": "Office Black Theme (Word) (Experimental)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Black/word-black-color-theme.json"
             },

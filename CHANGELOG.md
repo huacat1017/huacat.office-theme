@@ -1,7 +1,14 @@
 # Change Log
-## `1`.`3`.`3` (2023)
+## `1`.`3`.`3` (2023.7.7)
+### Syntax Changes
 - Add Bracket Highlight colors
 - Reset the color and style of parameter
+
+### Theme Changes
+- Rename Office Black Theme (Word) (New Syntax) -> **(Experimental)**
+- Recolor inputValidation colors (Light & Dark Experimental)
+- Specify editorWidget colors
+
 
 ## `1`.`3`.`2` (2023.7.2)
 - Specify banner color in Light Theme

@@ -72,6 +72,8 @@
 		"inputOption.activeBackground": "#605e5c",
 		"inputOption.activeBorder": "#8a8886",
 		"inputOption.activeForeground": "#d4d4d4",
+		"editorWidget.background": "#262626",
+		"editorWidget.border": "#575757",
 		// list
 		"list.activeSelectionBackground": "#484644",
 		"list.activeSelectionForeground": "#ffffff",
