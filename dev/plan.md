@@ -1,6 +1,4 @@
-- add red color to dark/light theme and improve syntax
 - improve inputvalidation
-- colorize bracket colors
 - update screenshot
 - editorStickyScroll
 - listFilterWidget
@@ -13,3 +11,4 @@
 - notification hover colors(Light, Dark)
 - dark:drag in file explorer bg color lighter
 - scrollbar
+- add red color to dark/light theme and improve syntax

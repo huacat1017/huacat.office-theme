@@ -37,6 +37,12 @@
 		"editor.wordHighlightStrongBackground": "#cfcfcf7f",
 		"editor.wordHighlightStrongBorder": "#616161",
 		"editor.snippetTabstopHighlightBackground": "#c7c7c7",
+		"editorBracketHighlight.foreground1": "#0070c0",
+		"editorBracketHighlight.foreground2": "#c0504d",
+		"editorBracketHighlight.foreground3": "#007d54",
+		"editorBracketHighlight.foreground4": "#c59504",
+		"editorBracketHighlight.foreground5": "#6d3fa4",
+		"editorBracketHighlight.foreground6": "#808080",
 		"editorBracketMatch.background": "#ffffff",
 		"editorBracketMatch.border": "#a3569e",
 		"editorCursor.background": "#000000",
@@ -321,7 +327,6 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"foreground": "#b2a1c7",
-				"fontStyle": "italic"
 			}
 		},
 		{

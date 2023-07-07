@@ -1,4 +1,8 @@
 # Change Log
+## `1`.`3`.`3` (2023)
+- Add Bracket Highlight colors
+- Reset the color and style of parameter
+
 ## `1`.`3`.`2` (2023.7.2)
 - Specify banner color in Light Theme
 - Recolor selection, word highlight, hover, and findMatch of the editor
