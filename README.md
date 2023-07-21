@@ -30,7 +30,7 @@ File Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/item
 ### **PREVIEW:** Black Word Theme
 ![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/black-word.png)
 
-### **EXPERIMENT:** Black Word Theme (New Syntax)
+### **EXPERIMENT:** Black Word Theme (Experimental)
 ![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/black-word-new.png)
 
 ## Installation

@@ -56,6 +56,13 @@
 		"editorLink.activeForeground": "#0563c1",
 		"editorLineNumber.activeForeground": "#439467",
 		"editorLineNumber.foreground": "#439467",
+		"editorSuggestWidget.background": "#ffffff",
+		"editorSuggestWidget.foreground": "#000000",
+		"editorSuggestWidget.border": "#c8c6c4",
+		"editorSuggestWidget.selectedForeground": "#000000",
+		"editorSuggestWidget.highlightForeground": "#439467",
+		"editorSuggestWidget.focusHighlightForeground": "#217346",
+		"editorSuggestWidgetStatus.foreground": "#252423",
 		// extension
 		"extensionButton.prominentBackground": "#217346",
 		"extensionButton.prominentHoverBackground": "#3c8b5f",
