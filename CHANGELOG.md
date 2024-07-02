@@ -2,8 +2,6 @@
 ## `1`.`4`.`0` (2024.7.2)
 - Update Python syntax colors
 - Enable semantic highlighting
-
-## `1`.`3`.`4` (2023.7)
 - Specify editorSuggestWidget colors
 
 ## `1`.`3`.`3` (2023.7.7)
