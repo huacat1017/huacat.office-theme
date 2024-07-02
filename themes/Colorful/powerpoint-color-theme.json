@@ -1,6 +1,7 @@
 {
 	"name": "powerpoint-color-theme",
 	"type": "light",
+	"semanticHighlighting": true,
 	"colors": {
 		// default settings
 		"focusBorder": "#000000",
@@ -297,11 +298,46 @@
 			}
 		},
 		{
+			"name": "Function Call",
+			"scope": "source.python meta.function-call.generic.python",
+			"settings": {
+				"foreground": "#5b9bd5"
+			}
+		},
+		{
+			"name": "Python Builtin Function",
+			"scope": "source.python support.function.builtin.python",
+			"settings": {
+				"foreground": "#5b9bd5"
+			}
+		},
+		{
 			"name": "Classes",
 			"scope": [
 				"entity.name.type",
 				"entity.other.inherited-class",
 				"support.class"
+			],
+			"settings": {
+				"foreground": "#70ad47"
+			}
+		},
+		{
+			"name": "Namespaces",
+			"scope": [
+				"entity.name.namespace"
+			],
+			"settings": {
+				"foreground": "#70ad47"
+			}
+		},
+		{
+			"name": "Java Import & Package",
+			"scope": [
+				"source.java storage.modifier.import",
+				"source.java storage.modifier.package",
+				"meta.embedded.block.java storage.modifier.import",
+        		"meta.embedded.block.java storage.modifier.package"
 			],
 			"settings": {
 				"foreground": "#70ad47"
@@ -314,7 +350,16 @@
 				"constant.character",
 				"constant.language",
 				"constant",
+			],
+			"settings": {
+				"foreground": "#e0a903"
+			}
+		},
+		{
+			"name": "Other Keywords (ex. import)",
+			"scope": [
 				"keyword.other",
+				"source.python keyword.control.import.python"
 			],
 			"settings": {
 				"foreground": "#e0a903"

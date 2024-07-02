@@ -1,6 +1,7 @@
 {
 	"name": "word-dark-theme",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		// default settings
 		"focusBorder": "#ffffff",
@@ -285,11 +286,46 @@
 			}
 		},
 		{
+			"name": "Function Call",
+			"scope": "source.python meta.function-call.generic.python",
+			"settings": {
+				"foreground": "#a7c6f1"
+			}
+		},
+		{
+			"name": "Python Builtin Function",
+			"scope": "source.python support.function.builtin.python",
+			"settings": {
+				"foreground": "#8eaadb"
+			}
+		},
+		{
 			"name": "Classes",
 			"scope": [
 				"entity.name.type",
 				"entity.other.inherited-class",
 				"support.class"
+			],
+			"settings": {
+				"foreground": "#b0e18d"
+			}
+		},
+		{
+			"name": "Namespaces",
+			"scope": [
+				"entity.name.namespace"
+			],
+			"settings": {
+				"foreground": "#b0e18d"
+			}
+		},
+		{
+			"name": "Java Import & Package",
+			"scope": [
+				"source.java storage.modifier.import",
+				"source.java storage.modifier.package",
+				"meta.embedded.block.java storage.modifier.import",
+        		"meta.embedded.block.java storage.modifier.package"
 			],
 			"settings": {
 				"foreground": "#b0e18d"
@@ -302,7 +338,16 @@
 				"constant.character",
 				"constant.language",
 				"constant",
-				"keyword.other"
+			],
+			"settings": {
+				"foreground": "#ffd965"
+			}
+		},
+		{
+			"name": "Other Keywords (ex. import)",
+			"scope": [
+				"keyword.other",
+				"source.python keyword.control.import.python"
 			],
 			"settings": {
 				"foreground": "#ffd965"
