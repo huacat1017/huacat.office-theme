@@ -45,7 +45,7 @@ File Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/item
 ### 2. Install Office Theme by Command Palette
 - Click View > Command Palette...
 - Type
-```
+```bash
 ext install huacat.office-theme
 ```
 - And you will see this extension
@@ -65,7 +65,7 @@ You can also correct my grammer.
 Follow this steps:
 1. go to terminal
 2. type
-```
+```bash
 git clone https://github.com/huacat1017/huacat.office-theme.git
 ```
 3. Wait for a moment, you can develop Office Theme.
