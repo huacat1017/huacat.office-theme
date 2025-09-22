@@ -1,4 +1,9 @@
 # Change Log
+
+## `1`.`4`.`1` (2025.9.22)
+- Update icon and welcome banner
+- Update Black Theme (Experimental) screenshot
+
 ## `1`.`4`.`0` (2024.7.2)
 - Update Python syntax colors
 - Enable semantic highlighting

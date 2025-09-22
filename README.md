@@ -26,12 +26,12 @@ File Icon Theme: [Material Icon Theme](https://marketplace.visualstudio.com/item
 ### Publisher Theme
 ![PUBLISHER](https://github.com/huacat1017/huacat.office-theme/raw/master/image/publisher.png)
 
-> Dark Theme [Poll](https://twitter.com/huacat1017/status/1669497003708157952): Which version do you prefer, the one with new syntax or the old one?
 ### **PREVIEW:** Black Word Theme
 ![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/black-word.png)
 
 ### **EXPERIMENT:** Black Word Theme (Experimental)
 ![DARK WORD](https://github.com/huacat1017/huacat.office-theme/raw/master/image/black-word-new.png)
+*Font: [Jetbrains Mono](https://github.com/JetBrains/JetBrainsMono/releases)*
 
 ## Installation
 ### 1. Install Office Theme from activity bar
